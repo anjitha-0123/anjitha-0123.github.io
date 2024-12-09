@@ -1,0 +1,180 @@
+.photo{
+    width: 50%;
+    height: 900px;
+    background-color: rgb(5, 76, 78);
+}
+.photo a img{
+    width: 540px;
+    height: 800px;
+    margin-top: 100px;
+    margin-left: 480px;
+}
+.head div{
+    float: left;
+    width: 50%;
+}
+.name{
+    width: 50%;
+    height: 900px;
+    background-color: rgb(10, 75, 52);
+}
+h1{
+    color: rgb(250, 248, 246);
+    margin-top: 500px;
+    margin-left: 80px;
+}
+.name a{
+    text-decoration: none;
+    color: beige;
+    margin-left: 10px;
+   
+}
+.name p{
+     color: beige;
+     margin-left: 150px;
+
+}
+.OB{
+    width: 30%;
+    height: 2000px;
+    background-color: rgb(10, 75, 52);
+}  
+h2{
+    color: beige;
+   padding-top: 1000px;
+    margin-left: 300px;
+}
+.OB p{
+    color: bisque;
+    padding-left: 80px;
+    padding-right: 80px;
+
+}
+.main h1{
+    color: black;
+    position: absolute;
+    top: 0px;
+    left: 3px;
+    color: beige;
+    margin-top: 70px;
+    margin-left: 650px;
+   
+  
+}
+.next{
+    margin-top: 300px;
+    float: right;
+    width: 50%;
+    height: 100px;
+    background-color: rgb(10, 75, 52)
+}
+.BC{
+    width: 200px;
+    height: 400px;
+    background-color: rgb(5, 76, 78);
+    position: absolute;
+    top: 1200px;
+    left: 1650px;
+
+}
+.EDU h1{
+    color: rgb(9, 92, 95);
+    position: absolute;
+    top: 500px;
+    left: 900px;
+}
+.EDU pre{
+    position: absolute;
+    top: 1100px;
+    left: 600px;
+}
+.box{
+    position: absolute;
+    top:270px ;
+    left: 450px;
+    display: flex;justify-content: space-between;
+
+}
+.box h2{
+    color:rgb(9, 92, 95) ;
+    margin-left: 300px;
+
+}
+.box p{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(70, 70, 2);
+    padding: 10px 5px;
+    color: beige;
+    margin-left: 10px;
+    margin-top: 1070px;
+    
+
+}
+.email a img{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 1200px;
+    left: 1700px;
+}
+.linkedin a img{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 1350px;
+    left: 1700px;
+
+}
+.phone a img{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 1500px;
+    left: 1700px;
+}
+.work h2{
+    color:rgb(9, 92, 95) ;
+    position: absolute;
+    top: 530px;
+    left: 800px;
+
+}
+.work pre{
+ position: absolute;
+ top: 1600px;
+ left: 1000px;
+ color: rgb(9, 92, 95);
+ font-size: medium;
+
+}
+.inter{
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    top: 1550px;
+    left: 780px;
+}
+.PRO h2{
+    color: rgb(245, 237, 237);
+}
+.PRO pre{
+    position: absolute;
+    top: 450px;
+    color: rgb(252, 245, 245);
+    
+}.WS h2{
+    color: rgb(5, 76, 78);
+
+}
+.WS{
+    position: absolute;
+    top: 850px;
+    left: 600px;
+}
+.form{
+    position: absolute;
+    top: 950px;
+    
+}
+
